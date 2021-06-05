@@ -20,6 +20,8 @@
 概述：V3继承于V2版本的设计，增加了四周的3mm固定孔，修改了AD的板框增加了3D显示的美观度。
 - 电路经多次打样实测，功能无异常，可放心使用。（建议使用V3版）
 - （对于对PCB体积要求不高的需求，建议使用此版本。集成的元件和功能较多，对调试比较友好。）
+![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V3-TOP.jpg)
+![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V3-BOTTOM.jpg)
 
 ***
 
@@ -36,3 +38,5 @@
 - 电路经多次打样实测，功能无异常，可放心使用。
 - （如对PCB面积不受限的场景应用，建议使用V3版，器件更丰富，功能更多。）
 ![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
+![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-BOTTOM.jpg)
+![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5.jpg)
