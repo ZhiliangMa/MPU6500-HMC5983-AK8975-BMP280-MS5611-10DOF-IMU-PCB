@@ -35,4 +35,4 @@
 - 通信电平仅支持3.3V，无3.3V/5V电平转换。
 - 电路经多次打样实测，功能无异常，可放心使用。
 - （如对PCB面积不受限的场景应用，建议使用V3版，器件更丰富，功能更多。）
-![image](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
+![V5版本 - 正面3D视图](https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg)
